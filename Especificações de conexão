@@ -1,2 +1,14 @@
 ### Especificações para as conexões com cabos no arduino.
 
+CONEXÃO NO SERVO MOTOR
+
+1 - Conecte o pino de sinal do servo motor (geralmente é o fio laranja) ao pino 9 do Arduino.
+2 - Conecte o pino de alimentação do servo motor (geralmente é o fio vermelho) ao pino 5V do Arduino.
+3 - Conecte o pino de terra do servo motor (geralmente é o fio marrom ou preto) ao pino GND do Arduino.
+
+---
+
+CONEXÃO NO BOTÃO
+
+1 - Conecte um lado do botão ao pino 2 do Arduino.
+2 - Conecte o outro lado do botão ao pino GND do Arduino.
